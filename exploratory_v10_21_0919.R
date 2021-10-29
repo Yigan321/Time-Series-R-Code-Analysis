@@ -1,12 +1,4 @@
-" 
-This script develops premodeling analysis for the Owens Corning's 
-Composite Revenue Modeling Project.
 
-@author: Haritima Chauhan
-@email: haritima.chauhan@soothsayeranalytics.com
-
-Current Script: v10.
-"
 
 # Importing libraries and setting working directory.----------------------------
 options(device = "RStudioGD")
